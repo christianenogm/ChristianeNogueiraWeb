@@ -1,11 +1,21 @@
+# Christiane Nogueira — Business Website
 
-  # Business Website Creation
+Personal portfolio website with web development and digital solutions.
 
-  This is a code bundle for Business Website Creation. The original project is available at https://www.figma.com/design/6vU0ATeJflhC6AFMC2sMHr/Business-Website-Creation.
+## Live website
 
-  ## Running the code
+https://christianenogm.github.io/ChristianeNogueiraWeb/
 
-  Run `npm i` to install the dependencies.
+## Run locally
 
-  Run `npm run dev` to start the development server.
-  
+Install the dependencies:
+
+`npm install`
+
+Start the development server:
+
+`npm run dev`
+
+Create a production build:
+
+`npm run build`
